@@ -1,3 +1,5 @@
+I'm not Navid
+
 - 👋 Hi, I’m Naveed
 - 👀 I’m interested in tech,ready to learn new things,want to work in a collabration to make something meaningful.
 - 🌱 I’m currently learning C && C++;
